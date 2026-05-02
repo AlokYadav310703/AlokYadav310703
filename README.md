@@ -61,10 +61,10 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=alokyadav310703&theme=dark&hide_border=false" height="150" />
+      <img src="https://github-readme-stats.shion.dev/api?username=alokyadav310703&theme=dark&hide_border=true" height="150" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=alokyadav310703&theme=dark&hide_border=false" height="150" />
+      <img src="https://streak-stats.demolab.com/?user=alokyadav310703&theme=dark&hide_border=true" height="150" />
     </td>
     <td>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alokyadav310703&theme=dark&layout=compact" height="150" />
