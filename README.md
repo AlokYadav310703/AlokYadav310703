@@ -75,7 +75,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 <!-- [![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # Featured Projects:
-
+## Data Analytics:
 <table border="0">
   <tr>
     <td width="50%" align="center">
