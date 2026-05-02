@@ -4,16 +4,16 @@ I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara 
 
 ---
 
-### 🎓 Certifications & Foundations
-* 🎓 <a href="https://coursera.org/verify/professional-cert/34C8I1L37MZH"><font color="#abb2bf">Google Data Analytics Professional Certificate</font></a>
-* 📊 <a href="https://coursera.org/verify/DTWNAMTFBEWJ"><font color="#abb2bf">IBM Excel Basics for Data Analysis</font></a>
-* 🗄️ <a href="https://coursera.org/verify/H1F5M8IBXMYI"><font color="#abb2bf">IBM Databases and SQL for Data Science</font></a>
+### Certifications & Foundations
+* <a href="https://coursera.org/verify/professional-cert/34C8I1L37MZH"><font color="#abb2bf">Google Data Analytics Professional Certificate</font></a>
+* <a href="https://coursera.org/verify/DTWNAMTFBEWJ"><font color="#abb2bf">IBM Excel Basics for Data Analysis</font></a>
+* <a href="https://coursera.org/verify/H1F5M8IBXMYI"><font color="#abb2bf">IBM Databases and SQL for Data Science</font></a>
 ---
 
-### 🛠️ Technical Deep Dive
+### Technical Deep Dive
 
 <details>
-<summary><b>🤖 Machine Learning & Deep Learning Models</b></summary>
+<summary><b> Machine Learning & Deep Learning Models</b></summary>
 <br>
 I have practical and theoretical expertise in:
 - **Classical ML:** Linear/Logistic Regression, SVM, Decision Trees, Random Forests, KNN, Naive Bayes.
@@ -49,7 +49,7 @@ Ensuring models scale in production:
 
 ---
 
-### 🔭 Current Focus:
+### Current Focus:
 I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly detection and real-time inference pipelines.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokyadav310703@gmail.com) 
@@ -74,7 +74,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 ---
 <!-- [![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-# 🚀 Featured Projects:
+# Featured Projects:
 
 <table border="0">
   <tr>
@@ -88,6 +88,12 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
       <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
         <h3>🛒 Blinkit Sales Analysis</h3>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
+        <h3>🛒 Bank Loan Analysis</h3>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Bank-Loan-Analysis">
       </a>
     </td>
   </tr>
