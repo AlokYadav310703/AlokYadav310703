@@ -1,28 +1,13 @@
-# 💫 About Me:
-I'm currently working on Bank Fraud Detection System
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokyadav310703@gmail.com) 
-
 # 💫 About Me
 
-I hold a **Masters Degree in Data Science** from **Northeastern University - Khoury College of Computer Sciences**. With **4+ years of experience**, I specialize in building and deploying high-impact Machine Learning and Deep Learning models, with a recent focus on **Generative AI** and **LLM Orchestration**.
-
----
-
-### 💼 Professional Experience
-* **NVIDIA Corporation** | Data Scientist / ML Engineer
-* **Solbots Technologies Private Limited** | Machine Learning Engineer
-* **Khoury College of Computer Sciences** | Graduate Researcher
+I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara with a strong interest in **Data Analytics** and **Data Science**. I have hands-on experience in **SQL, Python, and Power BI**, and I’ve worked on projects in e-commerce and finance domain. 
 
 ---
 
 ### 🎓 Certifications & Foundations
-* **Stanford University:** Machine Learning Certification
-* **DeepLearning.AI:** Deep Learning Specialization (Andrew Ng)
-* **Udemy:** Deploying AI & ML Models for Business
-* **Time Series:** Python for Time Series Data Analysis (Jose Portilla)
+* **Google Data Analytics Professional Certificate:** 
+* **IBM Excel Basics for Data Analysis:** 
+* **IBM Databases and SQL for Data Science:**
 
 ---
 
@@ -37,7 +22,7 @@ I have practical and theoretical expertise in:
 - **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.
 </details>
 
-<details>
+<!-- <details>
 <summary><b>📈 Time Series Forecasting (SOTA)</b></summary>
 <br>
 Experienced in modeling temporal data using:
@@ -52,21 +37,24 @@ Building the future of AI with:
 - **Frameworks:** LangChain, LangGraph, LlamaIndex.
 - **Techniques:** Retrieval Augmented Generation (RAG), Supervised Fine-Tuning (SFT), RLHF.
 - **Models:** GPT-4, Llama 2/3, Mixtral, OpenAI API.
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>🚀 DevOps & MLOps Infrastructure</b></summary>
 <br>
 Ensuring models scale in production:
 - **Containers:** Docker, Docker-Compose, Kubernetes.
 - **CI/CD:** GitLab CI/CD, Travis CI.
 - **OS:** Linux (Ubuntu), WSL.
-</details>
+</details> -->
 
 ---
 
 ### 🔭 Current Focus:
 I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly detection and real-time inference pipelines.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokyadav310703@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
