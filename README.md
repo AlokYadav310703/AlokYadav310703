@@ -22,7 +22,7 @@ I'm currently working on Bank Fraud Detection System
   </tr>
 </table>
 ---
-[![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # 🚀 Featured Projects:
 
