@@ -89,13 +89,18 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <h3>🛒 Blinkit Sales Analysis</h3>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project">
       </a>
-    </td> <br>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
-        <h3>🛒 Bank Loan Analysis</h3>
+        <h3>🏦 Bank Loan Analysis</h3>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Bank-Loan-Analysis">
       </a>
     </td>
+    <td width="50%" align="center">
+      </td>
   </tr>
 </table>
 
