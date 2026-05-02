@@ -22,7 +22,7 @@ I'm currently working on Bank Fraud Detection System
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
         <h3>📊 Olist Sales Analysis</h3>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Olist Project">
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Olist-Product-Sales-Analysis/refs/heads/main/images/Product%20Analysis.png" width="100%" alt="Olist Project">
       </a>
     </td>
     <td width="50%" align="center">
