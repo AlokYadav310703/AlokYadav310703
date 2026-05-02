@@ -21,7 +21,8 @@ I'm currently working on Bank Fraud Detection System
   <tr>
     <td>
       <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokyadav310703&repo=YOUR-REPO-NAME&theme=dark" />
+        ### 🛡️ Bank Fraud Detection System
+        <img src="Blinkit-Sales-Analysis/images/Screenshot 2026-04-10 150223.png" width="800" alt="Project Screenshot">
       </a>
     </td>
     <td>
