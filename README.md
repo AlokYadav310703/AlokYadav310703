@@ -19,15 +19,16 @@ I'm currently working on Bank Fraud Detection System
 
 <table border="0">
   <tr>
-    <td>
+    <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
-        ### 🛡️ Bank Fraud Detection System
-        <img src="[Blinkit-Sales-Analysis/images/Screenshot 2026-04-10 150223.png](https://github.com/AlokYadav310703/Blinkit-Sales-Analysis/blob/main/images/Screenshot%202026-04-10%20150223.png)" width="800" alt="Project Screenshot">
+        <h3>📊 Olist Sales Analysis</h3>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Olist Project">
       </a>
     </td>
-    <td>
+    <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokyadav310703&repo=BANK-FRAUD-REPO&theme=dark" />
+        <h3>🛒 Blinkit Sales Analysis</h3>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project">
       </a>
     </td>
   </tr>
