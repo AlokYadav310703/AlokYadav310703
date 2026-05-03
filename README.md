@@ -15,10 +15,9 @@ I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara 
 <details>
 <summary><b> Machine Learning & Deep Learning Models</b></summary><br>
 I have practical and theoretical expertise in: <br>
-* **Classical ML:** Linear/Logistic Regression, SVM, Decision Trees, Random Forests, KNN, Naive Bayes.<br>
-* **Ensemble Methods:** GBDT, XGBoost, LightGBM.<br>
-* **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.<br>
-
+- **Classical ML:** Linear/Logistic Regression, SVM, Decision Trees, Random Forests, KNN, Naive Bayes.<br>
+- **Ensemble Methods:** GBDT, XGBoost, LightGBM.<br>
+- **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.<br>
 </details>
 
 <!-- <details>
@@ -51,6 +50,7 @@ Ensuring models scale in production:
 
 ### Current Focus:
 I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly detection and real-time inference pipelines.
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokyadav310703@gmail.com) 
 
