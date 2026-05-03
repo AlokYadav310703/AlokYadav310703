@@ -13,6 +13,7 @@ I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara 
 ### Technical Deep Dive
 <summary><b> Machine Learning & Deep Learning Models</b></summary>
 <br>
+
 - **Classical ML:** Linear/Logistic Regression, SVM, Decision Trees, Random Forests, KNN, Naive Bayes.
 - **Ensemble Methods:** GBDT, XGBoost, LightGBM.
 - **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.
