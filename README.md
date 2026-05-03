@@ -12,13 +12,12 @@ I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara 
 
 ### Technical Deep Dive
 
-<details>
 <summary><b> Machine Learning & Deep Learning Models</b></summary><br>
 I have practical and theoretical expertise in: <br>
 - **Classical ML:** Linear/Logistic Regression, SVM, Decision Trees, Random Forests, KNN, Naive Bayes.<br>
 - **Ensemble Methods:** GBDT, XGBoost, LightGBM.<br>
 - **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.<br>
-</details>
+
 
 <!-- <details>
 <summary><b>📈 Time Series Forecasting (SOTA)</b></summary>
