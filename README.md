@@ -18,6 +18,13 @@ I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara 
 - **Ensemble Methods:** GBDT, XGBoost, LightGBM.
 - **Deep Learning:** DNNs, CNNs (Computer Vision), RNNs, and LSTMs.
 
+<summary><b> Data Analyst</b></summary>
+<br>
+
+- **Core Technical Skills:** SQL, Python, Excel, Power BI.
+- **Data Handling & Tools:** Data Cleaning & Preprocessing, Handling missing values, Data Transformation(ETL).
+- **Business & Analytical Thinking:** Problem-solving, Business understanding, KPI analysis, Data-driven decision making.
+
 
 
 <!-- <details>
