@@ -110,4 +110,6 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
   </tr>
 </table>
 
+## Machine Learning and Deep Learning:
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
