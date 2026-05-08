@@ -73,9 +73,9 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td>
       <img src="https://streak-stats.demolab.com/?user=alokyadav310703&theme=dark&hide_border=true" height="350" />
     </td>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alokyadav310703&theme=dark&layout=compact" height="350" />
-    </td>
+    </td> -->
   </tr>
 </table>
 <!-- [![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in) -->
