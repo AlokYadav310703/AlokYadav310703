@@ -96,7 +96,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM wave Direction Prediction.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
         <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
@@ -114,6 +114,6 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       </td>
   </tr>
-</table> what is wrong
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
