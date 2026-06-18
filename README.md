@@ -110,7 +110,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
         <b>Credit Card Transaction Analysis</b><br>
-        <img src="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis/blob/main/images/dashboard%20image.png" width="100%" alt="Bank-Loan-Analysis" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis/blob/main/images/dashboard%20image.png" width="100%" alt="Bank-Loan-Analysis" style="max width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
