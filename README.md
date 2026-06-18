@@ -99,9 +99,9 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
-        <b>Olist Sales Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Olist-Product-Sales-Analysis/refs/heads/main/images/Product%20Analysis.png" width="100%" alt="Olist Project" style="max-width:100%;">
+      <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
+        <b>Bank Loan Analysis</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Olist Project" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
@@ -109,17 +109,6 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <b>Credit Card Transaction Analysis</b><br>
         <img src="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis/blob/main/images/dashboard%20image.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
       </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
-        <b>Bank Loan Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Bank-Loan-Analysis" style="max-width:100%;">
-      </a>
-    </td>
-    <td width="50%" align="center">
     </td>
   </tr>
 </table>
