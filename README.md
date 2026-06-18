@@ -124,13 +124,19 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <b>Optimal-Beam-Direction-Selection</b><br>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM wave Direction Prediction.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
+        <b>Stock-Price-Prediction</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Stock-Price-Prediction/refs/heads/main/Model Architecture.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+      </a>
     </td>
-     <td width="50%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
         <b>Optimal-Beam-Direction-Selection</b><br>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM wave Direction Prediction.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
-    </td>
   </tr>
 </table>
 
