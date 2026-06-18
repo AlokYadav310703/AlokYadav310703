@@ -85,64 +85,35 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
-        <b>Olist Sales Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Olist-Product-Sales-Analysis/refs/heads/main/images/Product%20Analysis.png" width="100%" alt="Olist Project" style="max-width:100%;">
+      <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
+        <b>Stock-Price-Prediction</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Stock-Price-Prediction/refs/heads/main/Model Architecture.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
-        <b>Blinkit Sales Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
+      <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
+        <b>Optimal-Beam-Direction-Selection</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM wave Direction Prediction.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
-    </td>
   </tr>
-  
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
-        <b>Bank Loan Analysis</b><br>
+        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Bank-Loan-Analysis" style="max-width:100%;">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      </td>
+          <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
+        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Bank-Loan-Analysis" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
       </td>
   </tr>
-</table>
-
-## Machine Learning and Deep Learning:
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
-        <b>Stock-Price-Prediction</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Stock-Price-Prediction/refs/heads/main/Model%20Architecture.png" width="100%" alt="Stock-Price-Prediction">
-      </a>
-    </td>
-
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
-        <b>Optimal-Beam-Direction-Selection</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM%20wave%20Direction%20Prediction.png" width="100%" alt="Optimal-Beam-Direction-Selection">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
-        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
-        <img src="YOUR_AAPL_IMAGE_URL" width="100%" alt="AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
-      </a>
-    </td>
-
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System">
-        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
-        <img src="YOUR_FRAUD_IMAGE_URL" width="100%" alt="IEEE-CIS-Transaction-Fraud-Detection-System">
-      </a>
-    </td>
-  </tr>
-</table>
+</table> what is wrong
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
