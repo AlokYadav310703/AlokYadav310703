@@ -119,7 +119,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
         <b>Stock-Price-Prediction</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Stock-Price-Prediction/refs/heads/main/Model Architecture.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Stock-Price-Prediction/blob/main/cover%20image.jpg" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
