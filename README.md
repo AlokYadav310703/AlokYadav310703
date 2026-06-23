@@ -125,7 +125,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
         <b>Optimal-Beam-Direction-Selection</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/main/MM wave Direction Prediction.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/blob/main/cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
   </tr>
   <tr>
