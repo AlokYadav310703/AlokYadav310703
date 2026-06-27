@@ -81,6 +81,51 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 <!-- [![](https://komarev.com/ghpvc/?username=alokyadav310703&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # Featured Projects:
+
+## Machine Learning and Deep Learning:
+<table border="0">
+    <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
+        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
+        <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System">
+        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
+        <img src="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System/blob/main/images/fraud%20detection%20cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
+      </a>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
+        <b>Stock-Price-Prediction</b><br>
+        <img src="https://github.com/AlokYadav310703/Stock-Price-Prediction/blob/main/cover%20image.jpg" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
+        <b>Optimal-Beam-Direction-Selection</b><br>
+        <img src="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/blob/main/cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
+      </a>
+  </tr>
+  <!-- <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
+        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
+        <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System">
+        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
+        <img src="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System/blob/main/images/fraud%20detection%20cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
+      </a>
+  </tr> -->
+</table>
+
+
 ## Data Analytics:
 <table border="0">
   <tr>
@@ -110,36 +155,6 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <img src="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis/blob/main/images/dashboard%20image.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
       </a>
     </td>
-  </tr>
-</table>
-
-## Machine Learning and Deep Learning:
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
-        <b>Stock-Price-Prediction</b><br>
-        <img src="https://github.com/AlokYadav310703/Stock-Price-Prediction/blob/main/cover%20image.jpg" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-">
-        <b>Optimal-Beam-Direction-Selection</b><br>
-        <img src="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/blob/main/cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
-      </a>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
-        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
-        <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System">
-        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
-        <img src="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System/blob/main/images/fraud%20detection%20cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
-      </a>
   </tr>
 </table>
 
