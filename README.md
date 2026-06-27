@@ -97,6 +97,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <img src="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System/blob/main/images/fraud%20detection%20cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
   </tr>
+  
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Stock-Price-Prediction">
@@ -110,19 +111,16 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <img src="https://github.com/AlokYadav310703/Optimal-Beam-Direction-Selection-MM-Wave-/blob/main/cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
       </a>
   </tr>
-  <!-- <tr>
+
+  <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
-        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
+      <a href="https://github.com/AlokYadav310703/Bank-Marketing">
+        <b>Bank Marketing</b><br>
         <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System">
-        <b>IEEE-CIS-Transaction-Fraud-Detection-System</b><br>
-        <img src="https://github.com/AlokYadav310703/IEEE-CIS-Transaction-Fraud-Detection-System/blob/main/images/fraud%20detection%20cover%20image.png" width="100%" alt="Beam-Direction-Selection" style="max-width:100%;">
-      </a>
-  </tr> -->
+  </tr>
+  
 </table>
 
 
