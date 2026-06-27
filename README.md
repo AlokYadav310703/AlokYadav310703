@@ -116,7 +116,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Marketing">
         <b>Bank Marketing</b><br>
-        <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Bank-Marketing/blob/main/images/cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
   </tr>
