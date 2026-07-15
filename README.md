@@ -121,8 +121,8 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Movie-Recommender-System">
-        <b>Bank Marketing</b><br>
-        <img src="https://github.com/AlokYadav310703/Bank-Marketing/blob/main/images/cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
+        <b>Movie-Recommender-System</b><br>
+        <img src="https://github.com/AlokYadav310703/Movie-Recommender-System/blob/main/images/Movie_Rec_Sys_Cover_img.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
   </tr>
