@@ -154,7 +154,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
+      <a href="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis">
         <b>Credit Card Transaction Analysis</b><br>
         <img src="https://github.com/AlokYadav310703/Credit-Card-Transaction-Analysis/blob/main/images/dashboard%20image.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
       </a>
