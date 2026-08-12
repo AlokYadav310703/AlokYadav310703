@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m Alok Yadav, a third-year B.Tech Computer Science student at IIIT Vadodara with a strong interest in **Data Analytics** and **Data Science**. I have hands-on experience in **SQL, Python, and Power BI**, and I’ve worked on projects in e-commerce and finance domain. 
+I’m Alok Yadav, a fourth-year B.Tech Computer Science student at IIIT Vadodara with a strong interest in **Data Analytics** and **Data Science**. I have hands-on experience in **SQL, Python, and Power BI**, and I’ve worked on projects in e-commerce and finance domain. 
 
 ---
 
