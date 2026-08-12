@@ -162,4 +162,22 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
   </tr>
 </table>
 
+## Statistics:
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Olist-Product-Sales-Analysis">
+        <b>Olist Sales Analysis</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Olist-Product-Sales-Analysis/refs/heads/main/images/Product%20Analysis.png" width="100%" alt="Olist Project" style="max-width:100%;">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
+        <b>Blinkit Sales Analysis</b><br>
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
