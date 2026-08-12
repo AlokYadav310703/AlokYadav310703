@@ -168,14 +168,14 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing">
         <b>Cookie Cats A/B Testing</b><br>
-        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCats.png" width="100%" alt="Cookie Cat" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="100%" alt="Cookie Cat" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
+      <!-- <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
         <b>Blinkit Sales Analysis</b><br>
         <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
-      </a>
+      </a> -->
     </td>
   </tr>
 </table>
