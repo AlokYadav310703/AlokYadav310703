@@ -5,8 +5,8 @@ I’m Alok Yadav, a fourth-year B.Tech Computer Science student at IIIT Vadodara
 ---
 
 ### Certifications & Foundations
+* <a href="https://coursera.org/verify/professional-cert/XPYLOFGFRZ15"><font color="#abb2bf">IBM Data Science Professional Certificate</font></a>
 * <a href="https://coursera.org/verify/professional-cert/34C8I1L37MZH"><font color="#abb2bf">Google Data Analytics Professional Certificate</font></a>
-* <a href="https://coursera.org/verify/DTWNAMTFBEWJ"><font color="#abb2bf">IBM Excel Basics for Data Analysis</font></a>
 * <a href="https://coursera.org/verify/H1F5M8IBXMYI"><font color="#abb2bf">IBM Databases and SQL for Data Science</font></a>
 ---
 
