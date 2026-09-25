@@ -160,6 +160,15 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlokYadav310703/Superstore-wharehouse">
+        <b>Bank Loan Analysis</b><br>
+        <img src="https://github.com/AlokYadav310703/Superstore-wharehouse/blob/main/images/Page%201%20Executive%20Overview.png" width="100%" alt="Olist Project" style="max-width:90%;">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Statistics:
