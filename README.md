@@ -194,7 +194,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing">
-        <b>yolov8-surveillance-system</b><br>
+        <b>Cookie Cats A/B Testing</b><br>
         <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="auto" alt="CookieCatsCover.png" style="max-width:100%;">
       </a>
     </td>
