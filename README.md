@@ -197,15 +197,14 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/yolov8-surveillance-system">
         <b>yolov8-surveillance-system</b><br>
-        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="100%" height="60%" alt="Cookie Cat" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/yolov8-surveillance-system/blob/main/images/Cover_image.png" width="auto" alt="yolov8-surveillance-system" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
-      <!-- <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
-        <b>Blinkit Sales Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
-      </a> -->
-    </td>
+      <a href="https://github.com/AlokYadav310703/Diu-Tourism-Website">
+        <b>Diu-Tourism-Website</b><br>
+        <img src="https://github.com/AlokYadav310703/Diu-Tourism-Website/blob/main/client/public/assets/Nagoa.jpg" width="100%" alt="Nagoa" style="max-width:100%;">
+      </a>
   </tr>
 </table>
 
