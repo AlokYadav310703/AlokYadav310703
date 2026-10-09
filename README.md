@@ -174,21 +174,21 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
 </table>
 
 ## Statistics:
+
 <table border="0">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing">
-        <b>Cookie Cats A/B Testing</b><br>
-        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="100%" alt="Cookie Cat" style="max-width:90%;">
+        <b>yolov8-surveillance-system</b><br>
+        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="auto" alt="CookieCatsCover.png" style="max-width:100%;">
       </a>
     </td>
-    <!-- <td width="50%" align="center"> -->
-      <!-- <a href="https://github.com/AlokYadav310703/Blinkit-Sales-Analysis">
-        <b>Blinkit Sales Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Blinkit-Sales-Analysis/main/images/Screenshot%202026-04-10%20150223.png" width="100%" alt="Blinkit Project" style="max-width:100%;">
+    <td width="50%" align="center">
+      <!-- <a href="https://github.com/AlokYadav310703/Diu-Tourism-Website">
+        <b>Diu-Tourism-Website</b><br>
+        <img src="https://github.com/AlokYadav310703/Diu-Tourism-Website/blob/main/client/public/assets/Nagoa.jpg" width="100%" alt="Nagoa" style="max-width:100%;">
       </a> -->
-    <!-- </td>
-  </tr> -->
+  </tr>
 </table>
 
 ## Web Dev:
