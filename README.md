@@ -201,6 +201,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
         <b>Diu-Tourism-Website</b><br>
         <img src="https://github.com/AlokYadav310703/Diu-Tourism-Website/blob/main/client/public/assets/Nagoa.jpg" width="100%" alt="Nagoa" style="max-width:100%;">
       </a> -->
+    </td>
   </tr>
 </table>
 
