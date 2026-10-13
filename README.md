@@ -87,7 +87,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG">
-        <b>AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG</b><br>
+        <b>NewsDriven-AAPL-Stock-Prediction</b><br>
         <img src="https://github.com/AlokYadav310703/AAPL-Event-Driven-Stock-Prediction-System-with-Memory-Augmented-RAG/blob/main/images/Appl%20cover%20image.png" width="auto" alt="Stock-Price-Prediction" style="max-width:100%;">
       </a>
     </td>
