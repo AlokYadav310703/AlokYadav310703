@@ -165,7 +165,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Bank-Loan-Analysis">
         <b>Bank Loan Analysis</b><br>
-        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Olist Project" style="max-width:90%;">
+        <img src="https://raw.githubusercontent.com/AlokYadav310703/Bank-Loan-Analysis/refs/heads/master/images/Screenshot%202026-03-31%20232842.png" width="100%" alt="Olist Project" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
@@ -193,7 +193,7 @@ I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly
     <td width="50%" align="center">
       <a href="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing">
         <b>Cookie Cats A/B Testing</b><br>
-        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="auto" alt="CookieCatsCover.png" style="max-width:100%;">
+        <img src="https://github.com/AlokYadav310703/Cookie-Cats-A-B-Testing/blob/main/images/CookieCatsCover.png" width="100%" alt="CookieCatsCover.png" style="max-width:100%;">
       </a>
     </td>
     <td width="50%" align="center">
