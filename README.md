@@ -55,9 +55,6 @@ Ensuring models scale in production:
 
 ---
 
-### Current Focus:
-I am currently refining a **Bank Fraud Detection System** utilizing deep anomaly detection and real-time inference pipelines.
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokyadav310703@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-yadav-3b977a310)
 
